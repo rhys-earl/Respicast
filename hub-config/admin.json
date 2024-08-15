@@ -8,15 +8,5 @@
     },
     "repository_url": "https://github.com/european-modelling-hubs/syndromicDiseaseForecastHub",
     "file_format": ["csv"],
-    "hub_models": [{
-        "team_abbr": "syncast",
-        "model_abbr": "hubEnsemble",
-        "model_type": "ensemble"
-    },
-    {
-        "team_abbr": "syncast",
-        "model_abbr": "quantileBaseline",
-        "model_type": "baseline"
-    }],
     "timezone": "Europe/Stockholm"
 }
