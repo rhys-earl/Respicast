@@ -7,20 +7,20 @@ During the influenza season, participating teams submit weekly probabilistic for
 **_The 2023-2024 forecasting season has ended on May 1st. 2024-2025 season opens next fall._**
 
 ## Quick Start
-This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/flu-forecast-hub/wiki) or watch the following tutorial video on how to submit your first forecast: 
+This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki) or watch the following tutorial video on how to submit your first forecast: 
 
 [![IMAGE ALT TEXT HERE](https://github.com/european-modelling-hubs/hub-tools/blob/main/submission_tutorial_img.png)](https://www.youtube.com/watch?v=Gpyc2fr9PYw)
 
 
 #### Setup
-To prepare for your initial submission, consult the [Preparing to Submit](https://github.com/european-modelling-hubs/flu-forecast-hub/wiki/Preparing-to-submit) guide. This guide provides details on forking the repository, creating a team folder, and uploading a team metadata file.
+To prepare for your initial submission, consult the [Preparing to Submit](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki/Preparing-to-submit) guide. This guide provides details on forking the repository, creating a team folder, and uploading a team metadata file.
 
 #### Targets
 After completing the preceding steps, you are now prepared to submit your first forecast. We are currently focused on the forecast target of Weekly ILI Incidence (notified cases per $100,000$) in EU/EEA countries. Forecasts are evaluated against ILI incidence stored in the `target-data` folder of this repository. 
 
 
 #### Forecast Submission
-Forecast can be submitted to the Hub either via [GitHub website](https://github.com/european-modelling-hubs/flu-forecast-hub/wiki/Submitting-using-GitHub-Website) or [GitHub Command Line](https://github.com/european-modelling-hubs/flu-forecast-hub/wiki/Submitting-using-GitHub-Command-Line). The submission will trigger automatic validations that check the forecast have the [required format](https://github.com/european-modelling-hubs/flu-forecast-hub/wiki/Submission-Format). Incorrect formatting will lead to errors, resulting in submission failure. If this occurs, kindly review and rectify your format. Should you encounter persistent issues, feel free to reach out to us via email at [European.Modelling.Hub@ecdc.europa.eu](mailto:European.Modelling.Hub@ecdc.europa.eu) or by opening an issue in this repository.
+Forecast can be submitted to the Hub either via [GitHub website](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki/Submitting-using-GitHub-Website) or [GitHub Command Line](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki/Submitting-using-GitHub-Command-Line). The submission will trigger automatic validations that check the forecast have the [required format](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki/Submission-Format). Incorrect formatting will lead to errors, resulting in submission failure. If this occurs, kindly review and rectify your format. Should you encounter persistent issues, feel free to reach out to us via email at [European.Modelling.Hub@ecdc.europa.eu](mailto:European.Modelling.Hub@ecdc.europa.eu) or by opening an issue in this repository.
 
 
 ## About European Flu Forecasting Hub
