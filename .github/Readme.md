@@ -6,9 +6,7 @@ During the influenza season, participating teams submit weekly probabilistic for
 
 
 ## Quick Start
-This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki) or watch the following tutorial video on how to submit your first forecast: 
-
-[![IMAGE ALT TEXT HERE](https://github.com/european-modelling-hubs/hub-tools/blob/main/submission_tutorial_img.png)](https://www.youtube.com/watch?v=Gpyc2fr9PYw)
+This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/syndromicDiseasesForecastHub/wiki).
 
 
 #### Setup
