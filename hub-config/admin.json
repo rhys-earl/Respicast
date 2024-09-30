@@ -1,6 +1,6 @@
 {
     "schema_version": "https://raw.githubusercontent.com/hubverse-org/schemas/main/v3.0.1/admin-schema.json",
-    "name": "European Syndromic Disease Forecasting Hub",
+    "name": "European Syndromic Indicators Forecasting Hub",
     "maintainer": "ISI Foundation",
     "contact": {
         "name": "Paolo Milano",
