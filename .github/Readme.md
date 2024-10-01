@@ -6,18 +6,18 @@ During the winter season, participating teams submit weekly probabilistic foreca
 
 
 ## Quick Start
-This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/syndromicIndicatorsForecastHub/wiki).
+This is a brief outline for anyone considering contributing a forecast. For a detailed guide on how to structure and submit a forecast, please read the technical [Wiki](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators/wiki).
 
 
 #### Setup
-To prepare for your initial submission, consult the [Preparing to Submit](https://github.com/european-modelling-hubs/syndromicIndicatorsForecastHub/wiki/Preparing-to-submit) guide. This guide provides details on forking the repository, creating a team folder, and uploading a team metadata file.
+To prepare for your initial submission, consult the [Preparing to Submit](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators/wiki/Preparing-to-submit) guide. This guide provides details on forking the repository, creating a team folder, and uploading a team metadata file.
 
 #### Targets
 After completing the preceding steps, you are now prepared to submit your first forecast. We are currently focused on the forecast target of Weekly ILI Incidence and Weekly ARI Incidence (notified cases per $100,000$) in EU/EEA countries. Forecasts are evaluated against ILI and ARI incidence stored in the `target-data` folder of this repository. 
 
 
 #### Forecast Submission
-Forecast can be submitted to the Hub either via [GitHub website](https://github.com/european-modelling-hubs/syndromicIndicatorsForecastHub/wiki/Submitting-using-GitHub-Website) or [GitHub Command Line](https://github.com/european-modelling-hubs/syndromicIndicatorsForecastHub/wiki/Submitting-using-GitHub-Command-Line). The submission will trigger automatic validations that check the forecast have the [required format](https://github.com/european-modelling-hubs/syndromicIndicatorsForecastHub/wiki/Submission-Format). Incorrect formatting will lead to errors, resulting in submission failure. If this occurs, kindly review and rectify your format. Should you encounter persistent issues, feel free to reach out to us via email at [European.Modelling.Hub@ecdc.europa.eu](mailto:European.Modelling.Hub@ecdc.europa.eu) or by opening an issue in this repository.
+Forecast can be submitted to the Hub either via [GitHub website](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators/wiki/Submitting-using-GitHub-Website) or [GitHub Command Line](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators/wiki/Submitting-using-GitHub-Command-Line). The submission will trigger automatic validations that check the forecast have the [required format](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators/wiki/Submission-Format). Incorrect formatting will lead to errors, resulting in submission failure. If this occurs, kindly review and rectify your format. Should you encounter persistent issues, feel free to reach out to us via email at [European.Modelling.Hub@ecdc.europa.eu](mailto:European.Modelling.Hub@ecdc.europa.eu) or by opening an issue in this repository.
 
 
 ## About European Syndromic Indicators Forecasting Hub

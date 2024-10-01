@@ -37,7 +37,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        repository: 'european-modelling-hubs/syndromicIndicatorsForecastHub'
+        repository: 'european-modelling-hubs/RespiCast-SyndromicIndicators'
         ref: 'main'
         path: './repo/'
     
@@ -65,7 +65,7 @@ jobs:
 
   call-persisting-wf:
     needs: baseline_job
-    uses: european-modelling-hubs/syndromicIndicatorsForecastHub/.github/workflows/persist_changes.yml@main
+    uses: european-modelling-hubs/RespiCast-SyndromicIndicators/.github/workflows/persist_changes.yml@main
     with:
       changes-list: ${{ needs.baseline_job.outputs.changed_files }}
 
