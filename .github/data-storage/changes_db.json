@@ -1,1 +1,10 @@
-{}
+{
+    "ISI": [
+        {
+            "model": "SynTestModel",
+            "changes": [
+                "model-output/ISI-SynTestModel/2024-10-16-ISI-SynTestModel.csv"
+            ]
+        }
+    ]
+}
