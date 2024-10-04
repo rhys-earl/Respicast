@@ -5,9 +5,7 @@ on:
   pull_request_target:
     branches: main
     paths:
-# Forecast submission is temporary disabled
-# IMPORTANT: ENABLE BEFORE NEW SEASON STARTS
-#      - 'model-output/**'
+      - 'model-output/**'
       - 'model-metadata/*'
       - '!**README**'
       - '!**.md'
