@@ -18,4 +18,4 @@ Each ground truth CSV file contains the following columns:
 
 FluID covers the following countries: 
 
-    CH
+    CH, GB-ENG, GB-WLS, GB-NIR, GB-SCT
