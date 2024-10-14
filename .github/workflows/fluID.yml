@@ -50,7 +50,7 @@ jobs:
     - name: download fluID data
       id: download_fluID_data
       run: |
-        python ./tools/code/get_fluID_data.py --hub_path ./repo --disease "ILI"
+        python ./tools/code/import_truth_fluID_ILI_ARI.py --hub_path ./repo
 
     - name: Commit data repo changes
       uses: EndBug/add-and-commit@v7
