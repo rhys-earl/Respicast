@@ -19,4 +19,5 @@ Each ground truth CSV file contains the following columns:
 
 FluID covers the following countries: 
 
-    CH, GB-ENG, GB-WLS, GB-NIR, GB-SCT
+    ARI incidence: GB-ENG, GB-WLS, GB-NIR, GB-SCT
+    ILI incidence: CH, GB-ENG, GB-WLS, GB-NIR, GB-SCT
