@@ -19,5 +19,5 @@ Each ground truth CSV file contains the following columns:
 
 ERVISS covers the following countries: 
 
-    ILI: AT, BE, CY, CZ, DK, EE, ES, FI, FR, GR, HR, HU, IE, IS, IT, LT, LU, LV, MT, NL, NO, PL, PT, RO, SI, SK
-    IRI: BE, BG, CY, CZ, DE, EE, ES, FI, FR, HU, LT, LU, LV, MT, NL, PT, RO, SI, SK
+    ILI incidence: AT, BE, CY, CZ, DK, EE, ES, FI, FR, GR, HR, HU, IE, IS, IT, LT, LU, LV, MT, NL, NO, PL, PT, RO, SI, SK
+    IRI incidence: BE, BG, CY, CZ, DE, EE, ES, FI, FR, HU, LT, LU, LV, MT, NL, PT, RO, SI, SK
