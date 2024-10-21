@@ -34,5 +34,13 @@
                 "model-output/QMUL-ARIMA/2024-10-23-QMUL-ARIMA.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2024-10-23-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
