@@ -11,6 +11,12 @@
             "changes": [
                 "model-output/ISI-FluABCaster/2024-10-23-ISI-FluABCaster.csv"
             ]
+        },
+        {
+            "model": "RC_AdaptEns2",
+            "changes": [
+                "model-output/ISI-RC_AdaptEns2/2024-10-23-ISI-RC_AdaptEns2.csv"
+            ]
         }
     ],
     "fjordhest": [
