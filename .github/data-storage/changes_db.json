@@ -76,5 +76,31 @@
                 "model-output/ItaLuxColab-EpiNetEKF/2024-10-23-ItaLuxColab-EpiNetEKF.csv"
             ]
         }
+    ],
+    "MRC_GIDA": [
+        {
+            "model": "CATBoost",
+            "changes": [
+                "model-output/MRC_GIDA-CATBoost/2024-10-23-MRC_GIDA-CATBoost.csv"
+            ]
+        },
+        {
+            "model": "NBEATS",
+            "changes": [
+                "model-output/MRC_GIDA-NBEATS/2024-10-23-MRC_GIDA-NBEATS.csv"
+            ]
+        },
+        {
+            "model": "NHiTS",
+            "changes": [
+                "model-output/MRC_GIDA-NHiTS/2024-10-23-MRC_GIDA-NHiTS.csv"
+            ]
+        },
+        {
+            "model": "Prophet",
+            "changes": [
+                "model-output/MRC_GIDA-Prophet/2024-10-23-MRC_GIDA-Prophet.csv"
+            ]
+        }
     ]
 }
