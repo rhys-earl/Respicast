@@ -1,15 +1,15 @@
 {
-    "respicastSyndromic": [
+    "respicast": [
         {
             "model": "quantileBaseline",
             "changes": [
-                "model-output/respicastSyndromic-quantileBaseline/2024-10-23-respicastSyndromic-quantileBaseline.csv"
+                "model-output/respicast-quantileBaseline/2024-10-23-respicast-quantileBaseline.csv"
             ]
         },
         {
             "model": "hubEnsemble",
             "changes": [
-                "model-output/respicastSyndromic-hubEnsemble/2024-10-23-respicastSyndromic-hubEnsemble.csv"
+                "model-output/respicast-hubEnsemble/2024-10-23-respicast-hubEnsemble.csv"
             ]
         }
     ]
