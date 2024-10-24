@@ -1,6 +1,6 @@
-team_name: RespiCastSyndromic
+team_name: RespiCast
 model_name: Quantile Baseline
-team_abbr: respicastSyndromic
+team_abbr: respicast
 model_abbr: quantileBaseline
 model_contributors:
   - name: RespiCast Team
