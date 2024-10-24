@@ -1,8 +1,6 @@
 {
     "changes": [
-        "model-metadata/fjordhest-ensemble.yml",
-        "model-metadata/respicastSyndromic-quantileBaseline.yml",
-        "model-metadata/respicastSyndromic-hubEnsemble.yml",
-        "model-metadata/ECDC-soca_simplex.yml"
+        "model-metadata/respicast-quantileBaseline.yml",
+        "model-metadata/respicast-hubEnsemble.yml"
     ]
 }
