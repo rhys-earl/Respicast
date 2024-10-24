@@ -1,6 +1,5 @@
 {
     "changes": [
-        "model-metadata/ISI-SynTestModel.yml",
         "model-metadata/fjordhest-ensemble.yml",
         "model-metadata/ISI-SEIR_BRW.yml",
         "model-metadata/MRC_GIDA-NHiTS.yml",
