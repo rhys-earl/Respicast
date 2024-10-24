@@ -1,6 +1,6 @@
-team_name: RespiCastSyndromic
+team_name: RespiCast
 model_name: Hub Ensemble
-team_abbr: respicastSyndromic
+team_abbr: respicast
 model_abbr: hubEnsemble
 model_contributors:
   - name: RespiCast Team 
