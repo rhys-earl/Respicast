@@ -110,5 +110,13 @@
                 "model-output/safinea-syndromic/2024-10-23-safinea-syndromic.csv"
             ]
         }
+    ],
+    "respicastSyndromic": [
+        {
+            "model": "quantileBaseline",
+            "changes": [
+                "model-output/respicastSyndromic-quantileBaseline/2024-10-23-respicastSyndromic-quantileBaseline.csv"
+            ]
+        }
     ]
 }
