@@ -26,5 +26,13 @@
                 "model-output/fjordhest-ensemble/2024-10-30-fjordhest-ensemble.csv"
             ]
         }
+    ],
+    "QMUL": [
+        {
+            "model": "ARIMA",
+            "changes": [
+                "model-output/QMUL-ARIMA/2024-10-30-QMUL-ARIMA.csv"
+            ]
+        }
     ]
 }
