@@ -1,5 +1,4 @@
 {
-  
       "respicast": [
         {
             "model": "hubEnsemble",
@@ -8,5 +7,4 @@
             ]
         }
     ]
-
 }
