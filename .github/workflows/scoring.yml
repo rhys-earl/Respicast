@@ -63,7 +63,7 @@ jobs:
         install.packages('jsonlite')
         install.packages("optparse")
         # install.packages("scoringutils")
-        remotes::install_github("epiforecasts/scoringutils@v1.2")
+        remotes::install_github("epiforecasts/scoringutils@v1.2.2")
       shell: Rscript {0}
 
     # Setup Python
