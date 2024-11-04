@@ -1,1 +1,10 @@
-{}
+{
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2024-11-06-RIVM-KFdlm.csv"
+            ]
+        }
+    ]
+}
