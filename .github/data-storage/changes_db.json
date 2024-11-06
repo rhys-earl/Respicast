@@ -28,5 +28,13 @@
                 "model-output/ISI-RC_AdaptEns2/2024-11-06-ISI-RC_AdaptEns2.csv"
             ]
         }
+    ],
+    "QMUL": [
+        {
+            "model": "ARIMA",
+            "changes": [
+                "model-output/QMUL-ARIMA/2024-11-06-QMUL-ARIMA.csv"
+            ]
+        }
     ]
 }
