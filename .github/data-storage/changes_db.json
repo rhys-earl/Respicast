@@ -28,5 +28,13 @@
                 "model-output/ISI-RC_AdaptEns2/2024-11-13-ISI-RC_AdaptEns2.csv"
             ]
         }
+    ],
+    "fjordhest": [
+        {
+            "model": "ensemble",
+            "changes": [
+                "model-output/fjordhest-ensemble/2024-11-13-fjordhest-ensemble.csv"
+            ]
+        }
     ]
 }
