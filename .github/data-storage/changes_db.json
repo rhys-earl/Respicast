@@ -1,12 +1,4 @@
 {
-    "NotreDame": [
-        {
-            "model": "Rt_cocirc",
-            "changes": [
-                "model-output/NotreDame-Rt_cocirc/placeholder.txt"
-            ]
-        }
-    ],
     "RIVM": [
         {
             "model": "KFdlm",
