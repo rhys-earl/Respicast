@@ -25,6 +25,12 @@
             "changes": [
                 "model-output/ISI-LSTFlu/2024-11-13-ISI-LSTFlu.csv"
             ]
+        },
+        {
+            "model": "FluABCaster",
+            "changes": [
+                "model-output/ISI-FluABCaster/2024-11-13-ISI-FluABCaster.csv"
+            ]
         }
     ],
     "fjordhest": [
