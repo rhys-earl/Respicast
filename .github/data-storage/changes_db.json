@@ -14,5 +14,13 @@
                 "model-output/ISI-FluABCaster/2024-11-20-ISI-FluABCaster.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2024-11-20-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
