@@ -19,6 +19,18 @@
             "changes": [
                 "model-output/ISI-LSTFlu/2024-11-20-ISI-LSTFlu.csv"
             ]
+        },
+        {
+            "model": "FluBcast",
+            "changes": [
+                "model-output/ISI-FluBcast/2024-11-20-ISI-FluBcast.csv"
+            ]
+        },
+        {
+            "model": "RC_AdaptEns2",
+            "changes": [
+                "model-output/ISI-RC_AdaptEns2/2024-11-20-ISI-RC_AdaptEns2.csv"
+            ]
         }
     ],
     "RIVM": [
