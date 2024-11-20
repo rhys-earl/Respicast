@@ -88,5 +88,19 @@
                 "model-output/NotreDame-Rt_cocirc/2024-11-20-NotreDame-Rt_cocirc.csv"
             ]
         }
+    ],
+    "ECDC": [
+        {
+            "model": "SARIMA",
+            "changes": [
+                "model-output/ECDC-SARIMA/2024-11-20-ECDC-SARIMA.csv"
+            ]
+        },
+        {
+            "model": "soca_simplex",
+            "changes": [
+                "model-output/ECDC-soca_simplex/2024-11-20-ECDC-soca_simplex.csv"
+            ]
+        }
     ]
 }
