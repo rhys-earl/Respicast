@@ -36,5 +36,13 @@
                 "model-output/fjordhest-ensemble/2024-11-27-fjordhest-ensemble.csv"
             ]
         }
+    ],
+    "NotreDame": [
+        {
+            "model": "Rt_cocirc",
+            "changes": [
+                "model-output/NotreDame-Rt_cocirc/2024-11-27-NotreDame-Rt_cocirc.csv"
+            ]
+        }
     ]
 }
