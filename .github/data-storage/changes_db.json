@@ -20,5 +20,13 @@
                 "model-output/fjordhest-ensemble/2024-12-04-fjordhest-ensemble.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "LSTFlu",
+            "changes": [
+                "model-output/ISI-LSTFlu/2024-12-04-ISI-LSTFlu.csv"
+            ]
+        }
     ]
 }
