@@ -51,6 +51,12 @@
             "changes": [
                 "model-output/ISI-GLEAM/2024-12-04-ISI-GLEAM.csv"
             ]
+        },
+        {
+            "model": "SEIR_BRW",
+            "changes": [
+                "model-output/ISI-SEIR_BRW/2024-12-04-ISI-SEIR_BRW.csv"
+            ]
         }
     ],
     "NotreDame": [
