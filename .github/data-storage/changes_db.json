@@ -20,5 +20,13 @@
                 "model-output/fjordhest-ensemble/2024-12-11-fjordhest-ensemble.csv"
             ]
         }
+    ],
+    "RIVM": [
+        {
+            "model": "KFdlm",
+            "changes": [
+                "model-output/RIVM-KFdlm/2024-12-11-RIVM-KFdlm.csv"
+            ]
+        }
     ]
 }
