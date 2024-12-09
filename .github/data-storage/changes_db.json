@@ -58,5 +58,13 @@
                 "model-output/ISI-FluABCaster/2024-12-11-ISI-FluABCaster.csv"
             ]
         }
+    ],
+    "NotreDame": [
+        {
+            "model": "Rt_cocirc",
+            "changes": [
+                "model-output/NotreDame-Rt_cocirc/2024-12-11-NotreDame-Rt_cocirc.csv"
+            ]
+        }
     ]
 }
