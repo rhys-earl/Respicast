@@ -50,5 +50,13 @@
                 "model-output/safinea-syndromic/2024-12-11-safinea-syndromic.csv"
             ]
         }
+    ],
+    "ISI": [
+        {
+            "model": "FluABCaster",
+            "changes": [
+                "model-output/ISI-FluABCaster/2024-12-11-ISI-FluABCaster.csv"
+            ]
+        }
     ]
 }
